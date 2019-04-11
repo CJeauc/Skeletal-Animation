@@ -1,6 +1,4 @@
 # Skeletal-Animation
-Skeletal animation player using the WhiteBoxEngine
-
 Second year student project done in 5 days. We had to animate a skeleton reading animation files.
 
 ![](https://media.giphy.com/media/fW5U03iGG7lpDgsERk/giphy.gif)
