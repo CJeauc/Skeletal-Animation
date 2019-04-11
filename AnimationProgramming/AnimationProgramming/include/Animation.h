@@ -19,6 +19,6 @@ struct Animation
 
 	void SetSpeed(float p_speed)
 	{
-		speedScale = p_speed;
+		speedScale = abs(p_speed);
 	}
 };
